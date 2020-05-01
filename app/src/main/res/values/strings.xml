@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="title_activity_home">home</string>
+    <string name="title_activity_select">select</string>
+    <string name="title_activity_counter">counter</string>
+    <string name="title_activity_calories">calories</string>
+</resources>
